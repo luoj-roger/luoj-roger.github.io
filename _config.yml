@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Roger Jie Luo (罗杰)"
+  name             : "Roger Jie Luo (罗杰)"
   avatar           : "profile.png"
-  bio              : "Cofounder at Stealth Startup, AI Engineer, Startup Advisor & Angel Investor"
+  bio              : "Cofounder at Stealth Startup, Machine Learning Engineer, Startup Advisor & Angel Investor"
   location         : "San Francisco Bay Area"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
