@@ -17,4 +17,4 @@ I obtained my PhD from the Swiss Federal Institute of Technology in Lausanne (EP
 
 Recent Updates
 ======
-* 05/09/2020 I was invited to serve as sponsorship chair for [WSDM 2021])http://www.wsdm-conference.org/2021/index.php). 
+* 05/09/2020 I was invited to serve as sponsorship chair for [WSDM 2021](http://www.wsdm-conference.org/2021/index.php). 
